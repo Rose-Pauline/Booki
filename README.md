@@ -4,7 +4,7 @@ Troisième projet du parcours Intégrateur-web chez OpenClassrooms. L'objectif e
 
 <img width="497" alt="Capture d’écran 2023-04-20 à 18 09 36" src="https://user-images.githubusercontent.com/123948958/233425104-4280b9c9-2941-4f7e-b700-1895d651445c.png">
 
-Spécifications fonctionnelles
+# Spécifications fonctionnelles
 
 ● Les usagers pourront rechercher des hébergements dans la ville de leur choix. Le champ de recherche est un champ de saisie. La partie recherche ne doit pas être fonctionnelle.
 
@@ -14,7 +14,7 @@ Spécifications fonctionnelles
 
 ● Les textes “Hébergements” et “Activités”, situés dans l’en-tête, sont des liens. Ils doivent mener respectivement vers la section “Hébergements à Marseille” et “Activités à Marseille”.
 
-Spécifications techniques
+# Spécifications techniques
 
 ● Deux maquettes ont été réalisées : l’une desktop et l’autre mobile. Le site devra être également adapté aux formats tablette.
 
@@ -30,7 +30,7 @@ Spécifications techniques
 
 ● Utiliser Flexbox plutôt que Grid.
 
-Aucun framework CSS ne doit être utilisé
+● Aucun framework CSS ne doit être utilisé
 
 ● Utiliser des balises sémantiques.
 
